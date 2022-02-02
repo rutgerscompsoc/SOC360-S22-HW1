@@ -1,4 +1,4 @@
-# Homework 1, Fall 2021
+# Homework 1, Spring 2022
 
 Please open the .Rmd file in RStudio. All instructions are contained in the file.
 
